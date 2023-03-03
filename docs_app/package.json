@@ -87,7 +87,7 @@
     "dgeni-packages": "^0.30.0",
     "eslint": "^5.16.0",
     "eslint-plugin-jasmine": "^2.2.0",
-    "firebase-tools": "^9.3.0",
+    "firebase-tools": "^11.24.0",
     "fs-extra": "^8.0.1",
     "globby": "^9.2.0",
     "hast-util-is-element": "^1.0.3",
